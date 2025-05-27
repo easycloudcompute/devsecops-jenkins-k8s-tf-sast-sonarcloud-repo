@@ -24,7 +24,7 @@
 
 	<profiles>
 		<profile>
-			<id>JDK17-Switch</id>
+			<id>JDK11-Switch</id>
 			<activation>
 				<jdk>17</jdk>
 			</activation>
